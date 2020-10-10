@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Task app using ExpressJS and MongoDB
 - 🌱 I’m currently learning MERN stack 😊
 - 👯 I’m looking to collaborate on JavaScript projects 👯‍♀️
 - 🤔 I’m looking for help with JavaScript 😇
