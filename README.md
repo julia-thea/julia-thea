@@ -8,3 +8,4 @@
 - 📫 How to reach me: 📬 sunday6pm@gmail.com
 - ⚡ Fun fact: I love bunnies, yoga, biking, and code 😎✌️
 
+![Julia's github stats](https://github-readme-stats.vercel.app/api?username=JuliaTe&show_icons=true&theme=radical)
