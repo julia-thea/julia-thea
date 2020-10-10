@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on JavaScript based projects 👯‍♀️
 - 🤔 I’m looking for help with ExpresJS 😇
 - 💬 Ask me about how it's like to attend a coding bootcamp
-- 📫 How to reach me: 📬 sunday6pm@gmail.com
+- 📫 How to reach me: 📬 sunday6pm@protonmail.com
 - ⚡ Fun fact: I love bunnies, yoga, biking, and code 😎✌️
 
 ## 📈 My GitHub Stats
