@@ -10,6 +10,7 @@
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTe)](https://github.com/JuliaTe/github-readme-stats)
-
 ![Julia's github stats](https://github-readme-stats.vercel.app/api?username=JuliaTe&count_private=true&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaTe&layout=compact)](https://github.com/JuliaTe/github-readme-stats)
+
+
