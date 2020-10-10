@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Task app using ExpressJS and MongoDB
 - 🌱 I’m currently learning MERN stack 😊
-- 👯 I’m looking to collaborate on JavaScript projects 👯‍♀️
-- 🤔 I’m looking for help with JavaScript 😇
+- 👯 I’m looking to collaborate on JavaScript based projects 👯‍♀️
+- 🤔 I’m looking for help with ExpresJS 😇
 - 💬 Ask me about how it's like to attend a coding bootcamp
 - 📫 How to reach me: 📬 sunday6pm@gmail.com
 - ⚡ Fun fact: I love bunnies, yoga, biking, and code 😎✌️
