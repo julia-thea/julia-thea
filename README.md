@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif" width=auto>
 
-- 🔭 I’m currently working on Task app using ExpressJS and MongoDB
+- 🔭 I’m currently working on building Task app using ExpressJS and MongoDB
 - 🌱 I’m currently learning MERN stack 😊
 - 👯 I’m looking to collaborate on JavaScript based projects 👯‍♀️
 - 🤔 I’m looking for help with ExpresJS 😇
