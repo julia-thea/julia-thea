@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif" width=auto>
 
-- 🔭 I’m currently working on building Task app using ExpressJS and MongoDB
+- 🔭 I’m currently working on building E-commerce app with React
 - 🌱 I’m currently learning MERN stack 😊
 - 👯 I’m looking to collaborate on JavaScript based projects 👯‍♀️
-- 🤔 I’m looking for help with ExpresJS 😇
+- 🤔 I’m looking for help with NodeJS 😇
 - 💬 Ask me what it's like to attend a coding bootcamp
 - 📫 How to reach me: 📬 jthea@protonmail.com
 - ⚡ Fun fact: I love bunnies, yoga, biking, and code 😎✌️
