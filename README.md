@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif" width=auto>
 
-- 🔭 I’m currently working on building E-commerce app with React
-- 🌱 I’m currently learning MERN stack 😊
-- 👯 I’m looking to collaborate on JavaScript based projects 👯‍♀️
-- 🤔 I’m looking for help with NodeJS 😇
+- 🔭 I’m currently building web scrapper with data visualization using python and seaborn
+- 🌱 I’m currently learning python 😊
 - 💬 Ask me what it's like to attend a coding bootcamp
 - 📫 How to reach me: 📬 julia.thea@protonmail.com
-- ⚡ Fun fact: I love bunnies, yoga, biking, and code 😎✌️
+- ⚡ Fun fact: I love bunnies and code 😎✌️
 
 ## 📈 My GitHub Stats
 
