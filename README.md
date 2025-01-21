@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently building web scrapper with data visualization using python and seaborn
 - 🌱 I’m currently learning python 😊
-- 💬 Ask me what it's like to attend a coding bootcamp
+- 💬 Ask me what it's like to build an automation framework 
 - 📫 How to reach me: 📬 julia.thea@protonmail.com
-- ⚡ Fun fact: I love bunnies and code 😎✌️
+- ⚡ Fun fact: I love coffee and code 😎✌️
 
 ## 📈 My GitHub Stats
 
