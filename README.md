@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Julia Thea
 
 > SDET • Test Automation Engineer • Full-Stack Developer
->
-> ## Technical Focus
+
+## Technical Focus
 - **Languages:** TypeScript / JavaScript, Python, SQL, Ruby  
 - **Automation:** Playwright (TS), Postman/Newman, Jest, Mocha/Chai, Tosca  
 - **Back-End:** Node.js, Express, Ruby on Rails  
