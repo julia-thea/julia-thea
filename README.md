@@ -3,10 +3,10 @@
 **SDET • Test Automation Engineer • Full-Stack Developer**
 
 ## Technical Focus
-- **Languages:** TypeScript / JavaScript, Python, Ruby, Java
+- **Languages:** TypeScript / JavaScript, Python, Ruby
 - **Automation:** Playwright (TS), Postman/Newman, Jest, Mocha/Chai
+- **DevOps & Cloud:** AWS (ECS, Lambda, S3, Kinesis, DynamoDb, RDS, CodeBuild, API Gateway), GitHub Actions, Docker, Kubernetes
 - **Back-End:** Node.js, Express, Ruby on Rails  
-- **DevOps & Cloud:** AWS (ECS, Lambda, S3, Kinesis, DynamoDb, RDS, CodeBuild, API Gateway), GitHub Actions, Docker, Kubernetes 
 - **Data:** MySQL, REST
 
 ## Professional Timeline
