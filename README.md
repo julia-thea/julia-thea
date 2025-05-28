@@ -6,19 +6,8 @@
 - **Languages:** TypeScript / JavaScript, Python, Ruby  
 - **Automation:** Playwright (TS), Postman/Newman, Jest, Mocha/Chai
 - **Back-End:** Node.js, Express, Ruby on Rails  
-- **DevOps:** GitHub Actions, Docker, Kubernetes 
+- **DevOps & Cloud:** AWS (ECS, Lambda, S3, Kinesis, DynamoDb, RDS, CodeBuild, API Gateway), GitHub Actions, Docker, Kubernetes 
 - **Data:** MySQL, REST
-
-
-## Technical Stack
-
-| Languages | Frameworks & Libraries | QA / Automation | DevOps & Cloud | Data |
-|-----------|-----------------------|-----------------|---------------|------|
-| TypeScript, JavaScript | Node.js, Express, React | Playwright, Postman/Newman, Jest, Mocha/Chai, Tosca | GitHub Actions, CircleCI, Jenkins, Docker, Kubernetes, AWS (ECS, Lambda, S3) | MySQL, DynamoDB, SQL |
-| Python | Ruby on Rails | RSpec, Cucumber | Terraform (familiar) | REST / GraphQL APIs |
-
-
-
 
 ## Professional Timeline
 | Period | Role & Company | Key Technologies |
