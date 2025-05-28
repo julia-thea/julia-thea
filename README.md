@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Julia Thea
+# Hi, I’m Julia Thea
 
-> SDET • Test Automation Engineer • Full-Stack Developer
+SDET • Test Automation Engineer • Full-Stack Developer
 
 ## Technical Focus
 - **Languages:** TypeScript / JavaScript, Python, Ruby  
