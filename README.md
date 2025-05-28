@@ -1,15 +1,19 @@
-<img src="https://raw.githubusercontent.com/chandrikadeb7/chandrikadeb7/master/readme.gif" width=auto>
+# 👋 Hi, I’m Julia Thea
 
-- 🔭 I’m currently building web scrapper with data visualization using python and seaborn
-- 🌱 I’m currently learning python 😊
-- 💬 Ask me what it's like to build an automation framework 
-- 📫 How to reach me: 📬 julia.thea@protonmail.com
-- ⚡ Fun fact: I love coffee and code 😎✌️
+> SDET • Test Automation Engineer • Full-Stack Developer
+>
+> ## Technical Focus
+- **Languages:** TypeScript / JavaScript, Python, SQL, Ruby  
+- **Automation:** Playwright (TS), Postman/Newman, Jest, Mocha/Chai, Tosca  
+- **Back-End:** Node.js, Express, Ruby on Rails  
+- **DevOps:** GitHub Actions, Docker, Kubernetes, CircleCI  
+- **Data:** MySQL, REST & GraphQL APIs
 
-## 📈 My GitHub Stats
 
-![Julia's github stats](https://github-readme-stats.vercel.app/api?username=julia-thea&count_private=true&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia-thea&layout=compact)](https://github.com/JuliaTe/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JuliaTe.visitor-badge)
-
+## Professional Timeline
+| Period | Role & Company | Key Technologies |
+|--------|----------------|------------------|
+| 2022 – Present | Senior QA Engineer / SDET, **inKind** | Playwright (TS), Python, Postman, GitHub Actions, Docker, K8s |
+| 2021 – 2022 | Software Developer, **inKind**  | Node.js, Express, MySQL, Jest, CircleCI, Kubernetes |
+| 2020 – 2021 | Full-Stack Fellow, Hack Reactor & Le Wagon | JavaScript, React, Ruby on Rails |
